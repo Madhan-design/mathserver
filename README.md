@@ -1,5 +1,4 @@
 # Ex.05 Design a Website for Server Side Processing
-# Date:
 # AIM:
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
 
@@ -29,7 +28,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
-```python
+```
 mathserver.html
 
 <html>
@@ -139,10 +138,9 @@ urlpatterns = [
 ]
 ```
 # SERVER SIDE PROCESSING:
-![Screenshot 2025-04-22 114741](https://github.com/user-attachments/assets/09b5ef11-a841-4b99-a301-3d812e64ca8c)
-
+![Screenshot 2025-04-28 211335](https://github.com/user-attachments/assets/bed5e490-e7c7-4783-859a-0687881baea5)
 # HOMEPAGE:
-![Screenshot 2025-04-22 114915](https://github.com/user-attachments/assets/221f152c-25c5-4e6a-a97f-33006ced3676)
+![Screenshot 2025-04-28 211433](https://github.com/user-attachments/assets/a6c0fadb-15f5-43ec-9008-d4e78351c00d)
 
 # RESULT:
 The program for performing server side processing is completed successfully.
